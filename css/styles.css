@@ -1,0 +1,20 @@
+#titf{
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'Titan One', cursive;
+}
+
+#div1{
+    background-color: rgb(8, 166, 166);
+}
+#div2{
+    background-color: aquamarine;
+}
+#div3{
+    background-color: rgb(35, 219, 158);
+}
+
+#div4{ background-color: rgb(135, 202, 222);}
+#bd{
+    background-image: radial-gradient(circle at 50% -20.71%, #0090ac 0, #008fba 4.55%, #008ec6 9.09%, #008dd1 13.64%, #008bdb 18.18%, #0089e2 22.73%, #0086e8 27.27%, #0083ec 31.82%, #007fed 36.36%, #007aed 40.91%, #0074ea 45.45%, #486ee5 50%, #6c67de 54.55%, #8660d6 59.09%, #9b57cb 63.64%, #ac4fc0 68.18%, #ba46b3 72.73%, #c63ea5 77.27%, #cf3797 81.82%, #d63188 86.36%, #da2d79 90.91%, #dc2d6a 95.45%, #dd305b 100%);
+   
+}
